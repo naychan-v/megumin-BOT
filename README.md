@@ -19,7 +19,7 @@
 ---------------
 > git clone https://github.com/naychan-v/megumin-BOT
 > cd megumin-BOT
-> git clone https://github.com/naychan-v/node_modules
+> git clone https://github.com/Zerochanbot/node_modules
 
 Tunggu Hingga Proses Clone Module Selesai
 ---------------

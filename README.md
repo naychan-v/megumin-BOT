@@ -1,4 +1,4 @@
-# Candy-BOT
+# megumin-BOT
 <p align="center">
 	<img src="https://i.ibb.co/cyM9YyH/logoku.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
@@ -17,9 +17,9 @@
 > pkg upgrade
  Untuk Android 7 Keatas
 ---------------
-> git clone https://github.com/ZeroChanBot/Candy-BOT
-> cd Candy-BOT
-> git clone https://github.com/ZeroChanBot/node_modules
+> git clone https://github.com/naychan-v/megumin-BOT
+> cd megumin-BOT
+> git clone https://github.com/naychan-v/node_modules
 
 Tunggu Hingga Proses Clone Module Selesai
 ---------------

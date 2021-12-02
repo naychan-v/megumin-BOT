@@ -2,7 +2,7 @@
 <p align="center">
 	<img src="https://i.ibb.co/cyM9YyH/logoku.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">Candy-BOT</h1>
+<h1 align="center">megumin-BOT</h1>
 
 # Cara Penginstalan
 

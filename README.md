@@ -1,6 +1,6 @@
 # megumin-BOT
 <p align="center">
-	<img src="https://i.ibb.co/cyM9YyH/logoku.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
+	<img src="https://github.com/naychan-v/megumin-BOT/blob/05d0259723d0c1e9274c1ff3ef833557053eecba/logoku.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">megumin-BOT</h1>
 
